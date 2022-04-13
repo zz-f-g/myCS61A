@@ -1,0 +1,21 @@
+# obsidian #
+############
+.obsidian
+
+# ok #
+######
+*/ok
+*/*.ok
+*/*.ok_history
+*/*.ok_storage.bak
+*/*.ok_storage.dat
+*/*.ok_storage.dir
+*/__pycache__/*
+*/*/__pycache__/*
+*/parsons/
+
+# bin #
+#######
+*.zip
+*/*.zip
+*/*.exe
