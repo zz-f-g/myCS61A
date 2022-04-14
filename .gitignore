@@ -4,15 +4,15 @@
 
 # ok #
 ######
-*/ok
-*/*.ok
-*/*.ok_history
-*/*.ok_storage.bak
-*/*.ok_storage.dat
-*/*.ok_storage.dir
-*/__pycache__/*
+*/*/ok
+*/*/*.ok
+*/*/*.ok_history
+*/*/*.ok_storage.bak
+*/*/*.ok_storage.dat
+*/*/*.ok_storage.dir
 */*/__pycache__/*
-*/parsons/
+*/*/*/__pycache__/*
+*/*/parsons/
 
 # bin #
 #######
