@@ -17,4 +17,13 @@ def count_until_larger(num):
     >>> count_until_larger(0) # .Case 6
     -1
     """
-    "*** YOUR CODE HERE ***"
+    dgt1 = num % 10
+    cnt = 0
+    while num:
+        cnt += 1
+        num = num // 10
+        dgt = num % 10
+        if (dgt > dgt1):
+            return cnt
+    return -1
+
